@@ -23,6 +23,6 @@ public class Main {
                 position++;
             }
         }
-        return position; // returning the number of elements changed
+        return position; // returning the number of unique values in array
     }
 }
